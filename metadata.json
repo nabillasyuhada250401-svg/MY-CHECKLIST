@@ -1,0 +1,6 @@
+{
+  "name": "Checklist Harian & Pengingat Kalender",
+  "description": "Aplikasi checklist harian terstruktur dengan sinkronisasi Google Calendar, pengingat otomatis, rotasi perawatan diri 2 hari sekali, pelacak qadha salat, dan jurnal hafalan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
